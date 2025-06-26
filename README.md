@@ -1,4 +1,6 @@
 Advanced Python Assignments
+
+
 Part I: Process Automation
 Create a file that contains 1000 lines of random strings.
 
