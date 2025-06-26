@@ -2,25 +2,26 @@ Advanced Python Assignments
 
 
 Part I: Process Automation
-Create a file that contains 1000 lines of random strings.
 
-Create a file that contains multiple lines of random strings, and the file size must be 5 MB.
+1.Create a file that contains 1000 lines of random strings.
 
-Create 10 files that contain multiple lines of random strings, and the file size of each file must be 5 MB.
+2.Create a file that contains multiple lines of random strings, and the file size must be 5 MB.
 
-Create 5 files of sizes 1GB, 2GB, 3GB, 4GB, and 5GB. Each file contains multiple lines of random strings.
+3.Create 10 files that contain multiple lines of random strings, and the file size of each file must be 5 MB.
 
-Convert all the files from Q4 into uppercase, one by one.
+4.Create 5 files of sizes 1GB, 2GB, 3GB, 4GB, and 5GB. Each file contains multiple lines of random strings.
 
-Convert all the files from Q4 into uppercase in parallel using multi-threading.
+5.Convert all the files from Q4 into uppercase, one by one.
 
-Write a program to automatically download 10 images of cats from “Google Images”. (Hint: Find the package from pypi.org and use it.)
+6.Convert all the files from Q4 into uppercase in parallel using multi-threading.
 
-Write a program to automatically download 10 videos about "Machine Learning" from YouTube. (Hint: Find the package from pypi.org and use it.)
+7.Write a program to automatically download 10 images of cats from “Google Images”. (Hint: Find the package from pypi.org and use it.)
 
-Convert all the videos from Q8 to audio. (Hint: Find the package from pypi.org and use it.)
+8.Write a program to automatically download 10 videos about "Machine Learning" from YouTube. (Hint: Find the package from pypi.org and use it.)
 
-Create an automated multi-threaded pipeline for:
+9.Convert all the videos from Q8 to audio. (Hint: Find the package from pypi.org and use it.)
+
+10.Create an automated multi-threaded pipeline for:
 
 Automatically downloading 100 videos from YouTube → Convert them to audio
 
