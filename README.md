@@ -25,11 +25,12 @@ Part I: Process Automation
 
 Automatically downloading 100 videos from YouTube → Convert them to audio
 
-Create an automated multi-threaded pipeline for:
+11.Create an automated multi-threaded pipeline for:
 
 Automatically downloading 500 images of Dogs from Google Images → Rescale them to 50%
 
 Part II: Data Analytics
+
 Create a random dataset of 100 rows and 30 columns. All values range between [1, 200]. Perform the following operations:
 (i) Replace all values between [10, 60] with NA. Print the count of rows having missing values.
 (ii) Replace all the NA values with the average of the column.
